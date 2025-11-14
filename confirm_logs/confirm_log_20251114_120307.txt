@@ -1,0 +1,14 @@
+BAT DAU CHUONG TRINH CLICK NUT XAC NHAN - 2025-11-14 12:03:07
+============================================================
+Cua so: FC ONLINE
+Do phan giai: 816x639
+Loai nut: confirm
+=== CLICK_NUT_CONFIRM - 2025-11-14 12:03:08 ===
+Vi tri tuong doi: (555, 481)
+Vi tri tuyet doi: (699, 622)
+Do tin cay: 0.936
+Anh chup: confirm_logs\screenshots\confirm_1_120307.png
+--------------------------------------------------
+CLICK THANH CONG LAN 1
+KET THUC - 2025-11-14 12:03:09
+============================================================

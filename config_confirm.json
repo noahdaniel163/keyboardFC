@@ -1,0 +1,5 @@
+{
+    "button_type": "confirm",
+    "click_delay": 1.0,
+    "max_attempts": 3
+}
